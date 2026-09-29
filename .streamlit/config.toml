@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#ffd000ff"
+backgroundColor = "#00f2ffff"
+secondaryBackgroundColor = "#f9f9f9ff"
+textColor = "#0011f9ff"
+font = "'Supermercado One':https://fonts.googleapis.com/css2?family=Supermercado+One&display=swap"
